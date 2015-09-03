@@ -89,9 +89,10 @@ a:hover {
 
 #logo h1 {
 	line-height: 100px;
-	letter-spacing: -2px;
+	letter-spacing: -3px;
 	text-transform: lowercase;
 	font-size: 3.8em;
+	text-transform: capitalize;
 }
 
 #logo h1 a {
